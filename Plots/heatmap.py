@@ -12,7 +12,7 @@ data = [go.Heatmap(x=df['Day'],
                    colorscale='Jet')]
 
 # Preparing layout
-layout = go.Layout(title='Corona Virus Recovered Cases', xaxis_title="Day of Week",
+layout = go.Layout(title='Cheese found in caves', xaxis_title="Day of Week",
                    yaxis_title="Week of Month")
 
 # Plot the figure and saving in a html file
